@@ -1,0 +1,11 @@
+﻿Pseudocode 
+Q2) add 3 numbers without (+) operator 
+1. START
+2. INPUT num1
+3. INPUT num2
+4. INPUT num3
+5. SET a = -1*num2
+6. SET b = -1*num3
+7. SET sum = num1-a-b
+8. PRINT sum
+9. END 

@@ -1,0 +1,16 @@
+﻿Pseudocode
+Q1) to check if which of three numbers is largest
+START
+INPUT number a
+INPUT number b
+INPUT number c 
+IF number a > number b and number b > number c THEN
+PRINT “number a is largest”
+ELSE IF 
+number b > number a and number a > number c THEN 
+PRINT “number b is largest”
+ELSE IF 
+Number c > number a and number a > number b THEN
+PRINT “number c is largest”
+END IF 
+END

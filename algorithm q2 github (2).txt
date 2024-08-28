@@ -1,0 +1,18 @@
+﻿Algorithm 
+Q2) write an algorithm where a user enters specific number and an appropriate month is displayed 
+1. Start 
+2. Ask the user to enter a number between 1-12
+3. If number =1 then display January 
+4. Else if number =2 then display February 
+5. Else if number = 3 then display March
+6. Else if number = 4 then display April
+7. Else it number = 5 then display May
+8. Else if number =6 then display June 
+9. Else if number =7 then display July 
+10. Else if number=8 then display August 
+11. Else if number =9 then display September 
+12. Else if number =10 then display October 
+13. Else if number =11 then display November 
+14. Else if number = 12 then display December 
+15. Else display Invalid input enter a number between 1-12 only
+16. End 

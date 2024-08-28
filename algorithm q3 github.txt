@@ -1,0 +1,25 @@
+﻿Algorithm 
+Q3) create a calculator that performs +,-,/,%,*
+
+1. Start
+2. Ask user to enter number a 
+3. Ask user to enter number b 
+4. Ask user to enter math operator 
+5. Set answer = 0
+6. If math operator= + then 
+* Set answer = number a + number b
+* Display answer to user
+7. Else if math operator = -  then
+* Set answer = number a - number b 
+* Display answer to user
+8. Else if math operator= * then 
+* Set answer = number a * number b
+* Display answer to user 
+9. Else if math operator= / then
+* Set answer = number a / number b
+* Display answer to user 
+10. Else if math operator= % then
+* Set answer = number a % number b
+* Display answer to user 
+11. Else display Invalid input . Enter appropriate values
+12. End

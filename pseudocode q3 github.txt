@@ -1,0 +1,19 @@
+﻿Pseudocode
+Q3) create a calculator that can perform + ,-
+1. START
+2. INPUT number a
+3. INPUT number b
+4. INPUT math op
+5. SET ans=0
+6. IF math op = + THEN
+* SET ans= number a + number b
+* DISPLAY ans
+ELSE IF math op = -  THEN 
+* SET ans = number a - number b 
+* DISPLAY ans
+ELSE 
+* DISPLAY Invalid input enter appropriate values
+END IF
+7. END
+
+
